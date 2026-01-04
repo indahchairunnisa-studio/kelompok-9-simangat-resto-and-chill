@@ -1,5 +1,5 @@
 ###################
-Restorant
+Restoran
 ###################
 
 Sistem Informasi Pemesanan Restoran
